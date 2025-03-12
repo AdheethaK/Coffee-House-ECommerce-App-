@@ -3,8 +3,8 @@ module.exports = {
     darkMode: 'class',
     theme: {
       fontFamily: {
-        display: ['Jura', 'serif'],
-        body: ['Jura', 'serif'],
+        display: ['Inria Sans','sans-serif'],
+        body: ['Inria Sans','sans-serif'],
       },
       extend: {
         fontSize: {

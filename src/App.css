@@ -14,20 +14,6 @@
   }
 }
 
-#reference {
-  width: 100px;
-  height: 100px;
-  border: 2px dashed black;
-  margin: 100px;
-}
-
-#floating {
-  position: absolute;
-  background: gray;
-  padding: 0.5rem;
-  color: white;
-}
-
 /* .items-title{
   font-family: "Vast Shadow", serif;
   font-weight: 400;
